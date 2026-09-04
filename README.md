@@ -9,10 +9,10 @@ anotações, exercícios e coisas que vou aprendendo pelo caminho.
 
 ## 📌 Conteúdos
 
-- [SQL](./SQL)
-- [Power BI](./Power-BI)
-- [Modelagem de Dados](./Modelagem-de-Dados)
-- [Python](./Python)
+- [SQL]
+- [Power BI]
+- [Modelagem de Dados]
+- [Python]
 
 ## 🚧 Em andamento
 
